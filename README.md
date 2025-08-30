@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="zuhair_banner.gif" alt="Muhammad Zuhair Faisal Banner" width="800"/>
+</p>
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Muhammad%20Zuhair%20Faisal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
