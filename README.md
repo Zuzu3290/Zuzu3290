@@ -80,7 +80,7 @@ When I’m not coding or simulating, you’ll find me sketching, reading deep bo
 </a>
 <!-- IBM -->
 <a href="https://research.ibm.com/">
-  <img align="left" alt="IBM" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/732/732221.png" title="IBM Research – CPU ,AI, automation & quantum computing"/>
+    <img align="left" alt="IBM" width="30px" style="padding-right:12px;" src="https://raw.githubusercontent.com/Zuzu3290/Zuzu3290/782fb3f9e613ad5f92ace953ccbcaa59c990e1dc/ibm-logo.svg" title="IBM Research – AI, automation & quantum computing"/>
 </a>
 <!-- Robotics News -->
 <a href="https://spectrum.ieee.org/robotics">
