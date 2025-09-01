@@ -35,7 +35,7 @@ When I’m not coding or simulating, you’ll find me sketching, reading deep bo
 
 ## 🚀 Tech Stack    
 **Programming:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python3](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM-0091BD?logo=arm&logoColor=white)
