@@ -62,7 +62,7 @@ When I’m not coding or simulating, you’ll find me sketching, reading deep bo
 
 <!-- Canva -->
 <a href="https://www.canva.com/">
-  <img align="left" alt="Canva" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="Canva – Visuals, diagrams & GitHub design"/>
+    <img align="left" alt="Canva" width="30px" style="padding-right:12px;" src="https://github.com/Zuzu3290/Zuzu3290/blob/main/canva%20img.jpeg?raw=true" title="Canva – Visuals, diagrams & GitHub design"/>
 </a>
 
 <!-- VS Code -->
