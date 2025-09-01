@@ -75,11 +75,12 @@ When I’m not coding or simulating, you’ll find me sketching, reading deep bo
 </a>
 <!-- NVIDIA -->
 <a href="https://www.nvidia.com/en-us/research/">
-  <img align="left" alt="NVIDIA" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/5969/5969025.png" title="NVIDIA – GPUs, AI & robotics research"/>
+  <img align="left" alt="NVIDIA" width="30px" style="padding-right:12px;" src="https://github.com/Zuzu3290/Zuzu3290/blob/main/Nvidia.png?raw=true" title="NVIDIA – GPUs, AI & robotics research"/>
+
 </a>
 <!-- IBM -->
 <a href="https://research.ibm.com/">
-  <img align="left" alt="IBM" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/732/732221.png" title="IBM Research – AI, automation & quantum computing"/>
+  <img align="left" alt="IBM" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/732/732221.png" title="IBM Research – CPU ,AI, automation & quantum computing"/>
 </a>
 <!-- Robotics News -->
 <a href="https://spectrum.ieee.org/robotics">
