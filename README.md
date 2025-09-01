@@ -33,6 +33,70 @@ When I’m not coding or simulating, you’ll find me sketching, reading deep bo
 - Passionate about **Industrial Automation & Embedded Systems** → bridging hardware, software, and intelligence.  
 ---
 
+## 📱 Apps & Tools I Use  
+
+<!-- YouTube -->
+<a href="https://www.youtube.com/@yourchannel">
+  <img align="left" alt="YouTube" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" title="YouTube – Tutorials, robotics research & tech insights"/>
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/your_instagram">
+  <img align="left" alt="Instagram" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" title="Instagram – Creativity & networking"/>
+</a>
+
+<!-- Samsung Notes -->
+<a href="#">
+  <img align="left" alt="Samsung Notes" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" title="Samsung Notes – Quick sketches & engineering notes"/>
+</a>
+
+<!-- Twitter/X -->
+<a href="https://twitter.com/your_twitter">
+  <img align="left" alt="Twitter" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" title="Twitter – Robotics & AI communities"/>
+</a>
+
+<!-- Reddit -->
+<a href="https://reddit.com/u/yourusername">
+  <img align="left" alt="Reddit" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" title="Reddit – Tech discussions & robotics subs"/>
+</a>
+
+<!-- Canva -->
+<a href="https://www.canva.com/">
+  <img align="left" alt="Canva" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="Canva – Visuals, diagrams & GitHub design"/>
+</a>
+
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/">
+  <img align="left" alt="VS Code" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" title="VS Code – Coding & debugging"/>
+</a>
+<!-- LinkedIn -->
+<a href="http://www.linkedin.com/in/muhammad-zuhair-zuzu-tech-4b3316287">
+  <img align="left" alt="LinkedIn" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" title="LinkedIn – Networking & professional updates"/>
+</a>
+<!-- NVIDIA -->
+<a href="https://www.nvidia.com/en-us/research/">
+  <img align="left" alt="NVIDIA" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/5969/5969025.png" title="NVIDIA – GPUs, AI & robotics research"/>
+</a>
+<!-- IBM -->
+<a href="https://research.ibm.com/">
+  <img align="left" alt="IBM" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/732/732221.png" title="IBM Research – AI, automation & quantum computing"/>
+</a>
+<!-- Robotics News -->
+<a href="https://spectrum.ieee.org/robotics">
+  <img align="left" alt="Robotics News" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" title="IEEE Spectrum – Robotics updates"/>
+</a>
+<!-- TechCrunch -->
+<a href="https://techcrunch.com/">
+  <img align="left" alt="TechCrunch" width="35px" style="padding-right:12px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968826.png" title="TechCrunch – Tech industry updates"/>
+</a>
+
+<br clear="left"/>
+
+
+
+---
+
+
 ## 🚀 Tech Stack    
 **Programming:**  
 ![Python3](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
