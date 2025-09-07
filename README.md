@@ -141,11 +141,22 @@ When I’m not coding or simulating, you’ll find me sketching, reading deep bo
 - 💡 Forever curious: merging **logic with imagination**  
 
 ---
+## 📊 My Developer Stats
 
-
+### **Total Commits**
+![Commits](https://img.shields.io/badge/Commits-1245-blue?style=for-the-badge&logo=git)
+### **Total Projects**
+![Projects](https://img.shields.io/badge/Projects-12-green?style=for-the-badge&logo=github)
+### **Hours of Work**
+![Hours](https://img.shields.io/badge/Hours-1500+-yellow?style=for-the-badge&logo=clock)
+### **Industry Applications Addressed**
+![Industry Apps](https://img.shields.io/badge/Industry%20Apps-5-red?style=for-the-badge&logo=appveyor)
+### **Contributed**
+![Contributed](https://img.shields.io/badge/Contributed-34-purple?style=for-the-badge&logo=github)
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zuzu3290&show_icons=true&theme=radical" alt="Zuhair's GitHub stats"/>
-</p>
+</p> -->
+
