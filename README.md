@@ -20,7 +20,8 @@
 
 ## 👋 About Me  
 I’m **Muhammad Zuhair Faisal**, an undergraduate in **Electrical Engineering & Information Technology** at Hochschule Karlsruhe (HKA).  
-Strong focus on computer architecture, system software, and hardware-software co-design. Interested in multicore systems, concurrent programming, and how low-level architectural and operating system decisions influence performance, scalability, and correctness. Experience includes systems programming in C/C++, development of a Unix-like shell, and work on hardware-aware optimization and execution models, including compiler and runtime-level improvements. Familiar with Linux-based environments, process management, and performance-oriented system design across CPU and heterogeneous platforms. Particularly motivated to deepen understanding of concurrency, operating systems, and scalable system software, with the goal of contributing to efficient, reliable, and high-performance computing systems in research-driven environments.
+Strong focus on computer architecture, system software, and hardware-software co-design. Interested in multicore systems, concurrent programming, and how low-level architectural and operating system decisions influence performance, scalability, and correctness. 
+Particularly motivated to deepen understanding of concurrency, operating systems, and scalable system software, with the goal of contributing to efficient, reliable, and high-performance computing systems in research-driven environments.
 
 I’m **egoistic yet collaborative**, **creative yet structured**, and I see engineering not just as solving equations but as **philosophy expressed through technology**.  
 When I’m not coding or simulating, you’ll find me sketching, reading deep books, or exploring modern PC innovations.  
