@@ -1,150 +1,224 @@
+<!-- SECTION 1 · HEADER (SVG banner + typing animation + badges)   -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muhammad%20Zuhair%20Faisal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=EE%20Student%20%7C%20GPU%20Systems%20%7C%20Robotics%20%7C%20Physical%20AI&descAlignY=58&descSize=18&descColor=aaaaff"/>
+  <img src="https://raw.githubusercontent.com/Zuzu3290/Zuzu3290/main/header.svg" width="100%" alt="Muhammad Zuhair Faisal — GPU Systems · Physical AI · Real-Time Robotics"/>
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7B9FFF&center=true&vCenter=true&width=600&lines=Building+where+algorithms+meet+physical+limits.;CUDA+kernels+%7C+ROS2+real-time+control+%7C+Isaac+Sim;Hardware+and+software+are+one+design+problem." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=7B9FFF&center=true&vCenter=true&width=650&lines=Building+where+algorithms+meet+physical+limits.;Custom+CUDA+kernels+%7C+ROS2+real-time+control+%7C+NVIDIA+Isaac+Sim;Hardware+and+software+are+one+design+problem.;Currently%3A+Physical+AI+%7C+GPU+inference+%7C+Sensor+calibration+%40+KIT" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="http://www.linkedin.com/in/muhammad-zuhair-zuzu-tech-4b3316287">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Zuzu3290">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:zuhairmuhammad16@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Zuzu3290&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
+  <a href="https://github.com/Zuzu3290">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ⚡ What I Work On
+<!-- SECTION 2 · TWO-COLUMN LAYOUT                                                 -->
+<table>
+<tr>
 
-I build systems where **execution speed, memory pressure, and real-world dynamics** decide whether something works or fails. Three parallel threads, one design philosophy:
+<!-- LEFT COLUMN · profile photo -->
+<td width="28%" valign="top">
 
-```
-GPU-native inference    →   Custom CUDA kernels, PyTorch C++/CUDA, DSL compiler with IR rewrite passes
-Real-time robotics      →   ROS2 C++ async controllers, SLAM, Formula Student autonomous vehicle
-Perception & sim        →   NVIDIA Isaac Sim, UR5e/KUKA manipulation, LiDAR/RGB/Thermal calibration @ KIT
-```
+<img src="https://raw.githubusercontent.com/Zuzu3290/Zuzu3290/main/Gif%20-%20pic.jpg"
+     width="100%"
+     style="background:#ffffff; padding:8px; border-radius:10px; border: 2px solid #7B9FFF;"
+     alt="Muhammad Zuhair Faisal"/>
 
-> *Software and hardware are not separate design problems — they never were.*
+</td>
+
+<!-- RIGHT COLUMN · philosophy + active roles -->
+<td width="72%" valign="top">
+
+### 🧠 How I Think
+
+Engineering is philosophy expressed through constraints. The way a system is designed reveals what its builder truly believes about tradeoffs, failure modes, and the nature of the problem itself.
+
+I don't separate hardware from software, they're one design surface. Most systems fail not because the algorithm is wrong, but because someone treated the boundary between silicon and logic as someone else's problem.
+
+Outside the terminal: **philosophy and history** (Ibn Khaldun to Nietzsche), **anime** (anything with genuine world-building), **sketching** mechanical and architectural forms, and the gym.
+
+> *"Premature optimization is the root of all evil — but ignoring hardware is the root of all latency."*
 
 ---
 
-## 🔬 Where I Work Right Now
+### 🔬 Active Roles
 
-| Role | Organization | Focus |
-|------|-------------|-------|
-| 🧠 Bachelor Project — Accelerated Computing | **P!X3LFLUX Lab, Karlsruhe** | CUDA kernels · DSL compiler · SNN training · NVML profiling |
-| 🏎️ Autonomous Systems Engineer | **High Speed Karlsruhe (HSK)** | ROS2 C++ real-time controller · SLAM · HARA safety |
-| 👁️ Student Assistant — CV & Deep Learning | **KIT AIFB — CAS Research Group** | LiDAR/RGB/Thermal calibration · Spatial-temporal methods |
-| 🤖 Robotics Simulation Engineer *(completed)* | **IRP, Karlsruhe** | UR5e cartesian control · Isaac Sim · KUKA · Motion validation |
+**🧠 Bachelor Project — Accelerated Computing for Cognitive Systems**
+<br/>P!X3LFLUX Lab, Karlsruhe &nbsp;·&nbsp; `Dec 2025 – Present`
+<br/><sub>CUDA · C++ · PyTorch · pybind11 · SNNTorch</sub>
+
+<br/>
+
+**🏎️ Autonomous Systems Engineer**
+<br/>High Speed Karlsruhe — Formula Student Electric &nbsp;·&nbsp; `Oct 2025 – Present`
+<br/><sub>ROS2 C++ · SLAM · Odometry · HARA</sub>
+
+<br/>
+
+**👁️ Student Assistant — Computer Vision & Deep Learning**
+<br/>KIT AIFB · CAS Research Group &nbsp;·&nbsp; `May 2025 – Present`
+<br/><sub>LiDAR · RGB · Thermal · Spatial-temporal calibration</sub>
+
+<br/>
+
+**🤖 Student Assistant — Robotics Simulation**
+<br/>IRP, Karlsruhe &nbsp;·&nbsp; `Sep 2025 – Feb 2026`
+<br/><sub>Isaac Sim · UR5e · KUKA · Cartesian control</sub>
+
+</td>
+</tr>
+</table>
 
 ---
+
+<!-- SECTION 3 · WHAT I BUILD (code block summary)             -->
+
+## ⚡ What I Build
+
+I build systems where **execution speed, memory pressure, and real-world dynamics** determine whether something works or fails in the field — not the lab.
+
+```
+GPU-native inference    →   Custom CUDA kernels · PyTorch C++/CUDA · DSL compiler with IR rewrite passes · ~37% throughput gain
+Real-time robotics      →   Async ROS2 C++ controller · sliding-window SLAM · Formula Student autonomous vehicle
+Manipulation & sensing  →   UR5e / KUKA in NVIDIA Isaac Sim · LiDAR / RGB / Thermal calibration @ KIT AIFB
+```
+
+---
+
+<!-- SECTION 4 · TECH STACK (skill icons + badges)             -->
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,pytorch,tensorflow,opencv,docker,linux,git,cmake,matlab,vscode&theme=dark&perline=12"/>
+</p>
+
+<p align="center">
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![pybind11](https://img.shields.io/badge/pybind11-3776AB?style=flat-square&logo=python&logoColor=white)
+![SNNTorch](https://img.shields.io/badge/SNNTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=flat-square&logo=arm&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA_Xilinx-E01F27?style=flat-square&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-9146FF?style=flat-square&logoColor=white)
+![LiDAR](https://img.shields.io/badge/LiDAR_·_RGB_·_Thermal-555555?style=flat-square&logoColor=white)
+
+</p>
+
+---
+
+<!-- SECTION 5 · GITHUB STATS (stats card + language breakdown + streak) -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuzu3290&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9FFF&icon_color=7B9FFF&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuzu3290&theme=tokyonight&hide_border=true&background=0d1117&ring=7B9FFF&fire=ff6e6e&currStreakLabel=7B9FFF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuzu3290&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9FFF&icon_color=7B9FFF&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuzu3290&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9FFF&text_color=c9d1d9&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuzu3290&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9FFF&text_color=c9d1d9&langs_count=8" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Zuzu3290&theme=tokyonight&hide_border=true&background=0d1117&ring=7B9FFF&fire=7B9FFF&currStreakLabel=7B9FFF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
 </p>
 
 ---
+
+<!-- SECTION 6 · ACHIEVEMENTS                                                      -->
+
+## 🏆 Achievements
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Zuzu3290/Zuzu3290/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zuzu3290/Zuzu3290/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Zuzu3290/Zuzu3290/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/7B9FFF/Zuzu3290" alt="GitHub contribution heatmap" width="95%"/>
+</p>
+
+---
+
+<!-- SECTION 7 · FEATURED PROJECTS (collapsible demos)         -->
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/Zuzu3290/SNNs-auf-GPUs">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zuzu3290&repo=SNNs-auf-GPUs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9FFF&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/Zuzu3290/Ur5e-Robot-Peg-in-hole-">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zuzu3290&repo=Ur5e-Robot-Peg-in-hole-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9FFF&text_color=c9d1d9" />
-</a>
-
-<br clear="left"/>
+<details>
+<summary><b>🤖 UR5e Peg-in-Hole Manipulation </b></summary>
 
 <br/>
 
-**SNNs-auf-GPUs highlights:** Custom LIF CUDA kernel · JIT compiler (IR → op_rewrite → device_annotation → fusion → C++/CUDA backend) · S3-FIFO VRAM/RAM caching · TRADES adversarial robustness · ~**37% throughput improvement** over baseline
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zuzu3290/Ur5e-Robot-Peg-in-hole-/main/assets/demo.gif" width="75%" alt="UR5e Peg-in-Hole Simulation Demo"/>
+</p>
 
-**UR5e Peg-in-Hole highlights:** Cartesian trajectory control in NVIDIA Isaac Sim · Dockerized Isaac deployment · Force visualization · Custom `set_target(x, y, z)` API
+**Cartesian trajectory control in NVIDIA Isaac Sim**
+
+Articulated joint simulation for a UR5e arm executing precision peg-in-hole tasks. Custom `set_target(x, y, z)` Cartesian API, force visualization, and Dockerized Isaac deployment for reproducible simulation environments. Built alongside UR5e and KUKA workflows at IRP Karlsruhe with real-time ROS2 system integration.
+
+![Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+
+<a href="https://github.com/Zuzu3290/Ur5e-Robot-Peg-in-hole-">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</details>
 
 ---
 
-## 🛠️ Technical Stack
+<details>
+<summary><b>⚡ SNN GPU Acceleration Pipeline </b></summary>
 
-**GPU & Systems**
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zuzu3290/SNNs-auf-GPUs/main/assets/demo.gif" width="75%" alt="GPU Acceleration Pipeline Demo"/>
+</p>
+
+**GPU-native runtime for Spiking Neural Networks with custom CUDA kernels**
+
+Custom LIF CUDA kernel owns the full execution path — neuron dynamics, weight updates, memory management. JIT compiler pipeline: IR → `op_rewrite` → `device_annotation` → `fusion` → C++/CUDA backend via pybind11. S3-FIFO VRAM/RAM/disk caching under memory pressure. TRADES adversarial robustness + STDP regularisation alongside standard backpropagation.
+
+**~37% throughput improvement over baseline** through occupancy tuning, stream pipelining, and kernel fusion.
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=flat-square&logo=arm&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![pybind11](https://img.shields.io/badge/pybind11-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Robotics & Control**
-
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![RViz](https://img.shields.io/badge/RViz-22314E?style=flat-square&logo=ros&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-**Machine Learning**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![SNNTorch](https://img.shields.io/badge/SNNTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
-**Perception & Sensors**
+<a href="https://github.com/Zuzu3290/SNNs-auf-GPUs">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-![LiDAR](https://img.shields.io/badge/LiDAR-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Thermal](https://img.shields.io/badge/Thermal_Camera-FF6F00?style=flat-square&logoColor=white)
-![IMU](https://img.shields.io/badge/IMU_/_GPS-0078D4?style=flat-square&logoColor=white)
-
-**DevOps & Hardware**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![FPGA](https://img.shields.io/badge/FPGA_Xilinx-E01F27?style=flat-square&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-9146FF?style=flat-square&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-DC143C?style=flat-square&logoColor=white)
+</details>
 
 ---
 
-## 🌱 Beyond the Code
-
-I think engineering is philosophy expressed through technology — the way a system is designed reveals what its builder actually believes about the world.
-
-Outside the terminal: **philosophy and history** (Ibn Khaldun to Nietzsche), **anime** (anything with genuine world-building), **sketching** mechanical and architectural forms, and the gym. Probably reading something about Roman infrastructure or Byzantine military strategy right now.
-
-Currently obsessed with: the gap between what works in simulation and what survives contact with a factory floor.
-
----
+<!-- SECTION 8 · EDUCATION                                     -->
 
 ## 🎓 Education
 
-**B.Eng. Electrical Engineering & Information Technology**
-Hochschule Karlsruhe · Sept 2023 – Aug 2027 *(expected)*
+**B.Eng. Electrical Engineering & Information Technology**  
+Hochschule Karlsruhe · Sept 2023 – Aug 2027 *(expected)*  
 Neural networks · Hardware-near programming · Digital signal processing · Embedded systems · Control engineering
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
-</p>
 ---
