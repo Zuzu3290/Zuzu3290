@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=7B9FFF&center=true&vCenter=true&width=650&lines=Building+where+algorithms+meet+physical+limits.;Custom+CUDA+kernels+%7C+ROS2+real-time+control+%7C+NVIDIA+Isaac+Sim;Hardware+and+software+are+one+design+problem.;Currently%3A+Physical+AI+%7C+GPU+inference+%7C+Sensor+calibration+%40+KIT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=7B9FFF&center=true&vCenter=true&width=650&lines=Building+where+algorithms+meet+physical+limits.;Custom+CUDA+kernels+%7C+ROS2+real-time+control+%7C+NVIDIA+Isaac+Sim;Hardware+and+software+are+one+design+problem.;Currently%3A+GPU+inference+%7C+Sensor+calibration+%40+KIT" alt="Typing SVG" />
   </a>
 </p>
 
